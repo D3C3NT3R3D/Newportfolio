@@ -1,5 +1,5 @@
 {
-  "name": "devportfolio-template",
+  "name": "personal-portfolio",
   "version": "1.2.2",
   "description": "",
   "main": "js/scripts.js",
@@ -10,11 +10,11 @@
     "portfolio",
     "personal",
     "website",
-    "tech",
-    "coding",
-    "dev"
+    "digital assets",
+    "leader",
+    "crypto"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "Brett Jessen",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
